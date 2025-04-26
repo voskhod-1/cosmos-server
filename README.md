@@ -5,7 +5,8 @@
 - [Go](https://go.dev/)
 - [Python(Jinja2)](https://python.org/)
 - SQL
-- [Docker](https://docker.org/)
+- [Docker](https://docker.com/)
+- CAPTCHa
 
 ## Цели:
 - Возможность работы без авторизации.
