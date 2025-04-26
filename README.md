@@ -5,7 +5,7 @@
 - [Go](https://go.dev/)
 - [Python(Jinja2)](https://python.org/)
 - SQL
-- Docker
+- [Docker](https://docker.org/)
 
 ## Цели:
 - Возможность работы без авторизации.
