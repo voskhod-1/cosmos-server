@@ -2,8 +2,8 @@
 [о проекте](https://github.com/voskhod-1/cosmos-server/blob/main/info.md)
 
 ## Стек:
-- Go
-- Python(Jinja2)
+- [Go](https://go.dev/)
+- [Python(Jinja2)](https://python.org/)
 - SQL
 - Docker
 
