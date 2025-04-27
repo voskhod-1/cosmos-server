@@ -8,6 +8,12 @@
 - [Docker](https://docker.com/)
 - CAPTCHa
 
+## Интеграции:
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
+- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)
+- [Delta Chat](https://github.com/deltachat/deltachat-pages)
+- [Shaka Player](https://github.com/shaka-project/shaka-player)
+
 ## Этапы работы:
 1. Работа с объектами и классами(Вуз, Фак., Группа, Расписание, Предметы)
 2. Работа с БД
